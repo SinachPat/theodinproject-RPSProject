@@ -61,6 +61,7 @@ let totalRounds = 5;
             console.log("We play again!");
         }
     }
+    
 console.log(playerScore);
 console.log(computerScore);
 }
